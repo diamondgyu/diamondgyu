@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **diamondgyu/diamondgyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm  Soku Jang👋
 
 ## About Me
 🚀 I'm a 3rd grade University student. </br>
@@ -25,7 +23,6 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
@@ -40,13 +37,14 @@ Here are some ideas to get you started:
 ![](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&custom_title=Your%20Contribution%20Graph&theme=react-dark)
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(TBA) 
+TBA
 
 ## 📚 Latest Blog Posts
 TBA
 
 ## 📌 Pinned Repositories
-(TBA)
+TBA
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=YourGitHubUsername&icon=0&color=0)](https://visitcount.itsvg.in)
