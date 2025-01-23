@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm  Soku Jang👋
+# Hello, I'm  Seokgyu Jang👋
 
 ## About Me
-🚀 I'm a 3rd grade University student. </br>
+🚀 I'm a 4th grade University student. </br>
 🌱 I'm currently learning Statistics, AI, and Economics/Finance. </br>
 👯 I'm looking to collaborate on AI projects like ones in Kaggle. </br>
 📫 How to reach me: diamondgyu@gmail.com </br>
