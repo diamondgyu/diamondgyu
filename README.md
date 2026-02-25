@@ -38,12 +38,6 @@ I am a **Computer Software Engineering** student at **Hanyang University** (Diam
 
 ---
 
-### 📊 Statistics
-![Seokgyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamondgyu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamondgyu&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect with me
 - LinkedIn: [linkedin.com/in/seokgyujang](https://www.linkedin.com/in/seokgyujang)
 - Email: [diamondgyu@gmail.com](mailto:diamondgyu@gmail.com)
