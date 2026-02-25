@@ -19,8 +19,7 @@ I am a **Computer Software Engineering** student at **Hanyang University** (Diam
 
 **AI & Data Science**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-FFD700?style=flat-square&logo=NaturalLanguageProcessing&logoColor=black)
-**vLLM, Deep Learning, Reinforcement Learning**
+**NLP, vLLM, Deep Learning, Reinforcement Learning**
 
 **Systems & Tools**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
